@@ -14,4 +14,5 @@ function customError() {
   throw new Error('Error');
 }
 
+
 export {};
